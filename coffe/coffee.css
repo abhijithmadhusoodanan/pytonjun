@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Rubik+Dirt&family=Rubik+Maze&display=swap');
+.notification{
+  height: 10px;
+  width: 100%;
+  background-color: rgb(138, 98, 74);
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+.heading{
+  height: 100px;
+  width: 100%;
+  background-color: rgb(252, 224, 208);
+  margin: 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(138, 98, 74);
+  position: relative;
+  top: 2px;
+}
+.logo{
+  position: absolute;
+  left: 1243px;
+  top: 14px;
+}
+.brand{
+  height: auto;
+  width: 400px;
+  position: absolute;
+  left: 1023px;
+  top: -41px;
+  font-family: 'DynaPuff', cursive;
+  color: rgb(138, 98, 74);
+  font-size: xxx-large;
+}
+.externals{
+  height: 35px;
+  width: auto;
+  background-color: rgb(252, 224, 208);
+  color: rgb(174, 78, 19);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(138, 98, 74);
+
+}
+.links {
+  height: auto;
+  width: auto;
+  margin-left: 10px;
+  font-size: larger;
+  margin-top: 5px;
+}
+#hov:hover{
+  color: black;
+}
+.about{
+  height: 300px;
+  width: 75%;
+  background-color: rgb(252, 224, 208);
+  margin-top: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(138, 98, 74);
+}
+#content{
+  padding: 10px ;
+  height: 200px;
+  width: 411px;
+  color: rgb(174, 78, 19);
+  margin-left: 102px;
+  font-family: 'DynaPuff', cursive;
+  font-size: x-large;
+
+
+}
+#img2{
+  height: 300px;
+  width: 432px;
+
+}
+#img1{
+  height: 100px;
+  width: 100px;
+  margin-left: 723px;
+  margin-top: -220px;
+  object-fit: contain;
+}
+.order{
+  height: 550px;
+  width: 25%;
+  background-color: rgb(49, 22, 5);
+  position: absolute;
+  right: 4px;
+  top: 156px;
+  color: aliceblue;
+  text-align: center;
+  font-family: 'DynaPuff', cursive;
+}
+button{
+  background-color: antiquewhite;
+  color: rgb(20, 3, 3);
+  height: 50px;
+  width: auto;
+  font-family: 'DynaPuff', cursive;
+  border-radius: 96px;
+}
+button:hover{
+  color: rgb(242, 173, 69);
+}
+.b3{
+  height: 250px;
+  width: 75%;
+  background-color: rgb(252, 224, 208);
+  position: relative;
+
+}
+.b4{
+  height: 200px;
+  width: 411px;
+  left: 110px;
+  top: 50px;
+  color: rgb(174, 78, 19);
+  font-family: 'DynaPuff', cursive;
+  position: absolute;
+  font-size: x-large;
+}
+#img3 {
+  height: 250px;
+  width: 403px;
+}
+.b5{
+  object-fit: contain;
+  position: absolute;
+  left: 724px;
+}
+.foot{
+  height: 300px;
+  width: 100%;
+  background-color: rgb(49, 22, 5);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(138, 98, 74);
+  position: relative;
+}
+.whatsapp{
+  height: 50px;
+  width: 50px;
+  /* background-color: aliceblue; */
+  position: absolute;
+  bottom: 150px;
+  left: 655px;
+}
+.instagram{
+  height: 50px;
+  width: 50px;
+  /* background-color: aliceblue; */
+  position: absolute;
+  bottom: 150px;
+  left:705px;
+}
+.telephone{
+  height: 50px;
+  width: 50px;
+  /* background-color: aliceblue; */
+  position: absolute;
+  bottom: 150px;
+  left: 755px;
+}
+.fab{
+  color: whitesmoke;
+}
+.snap{
+  height: 50px;
+  width: 50px;
+    /* background-color: aliceblue; */
+  position: absolute;
+  bottom: 150px;
+  left: 800px;
+}
+.brand2{
+  height: auto;
+  width: 144px;
+  position: absolute;
+  left: 674px;
+  top: 15px;
+  font-family: 'DynaPuff', cursive;
+  color: rgb(252, 224, 208);
+  font-size: xx-large;
+}
+.creation{
+  font-size: 16px;
+  color: black;
+  position: absolute;
+  top: 233px;
+  left: 37%;
+  font-weight: 600;
+}
